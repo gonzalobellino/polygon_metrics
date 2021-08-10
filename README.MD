@@ -115,7 +115,7 @@ Polygon es una solución mas que interesante para implementar TSA dado el costo 
 
 Propuestas
 
-La propuesta mas conservadora seria monitorear la evolucion de esta solucion para contrastar las estimaciones de costo de gas realizadas y como se ajustan al incremento de uso de la red, ademas de poder observar potenciales ataques a la red y cuan resiliente es. Por otra parte evaluar que soluciones plantea el equipo core a la centralizacion actual de los smartcontracts. Por ultimo evaluar otra solucion de L2 como ser Arbitrum o Optimism que son consideradas mas seguras que la analizada Polygon
+La propuesta mas conservadora seria monitorear la evolucion de esta solucion para contrastar las estimaciones de costo de gas realizadas y como se ajustan al incremento de uso de la red, ademas de poder observar potenciales ataques a la red y cuan resiliente es. Por otra parte evaluar que soluciones plantea el equipo core a la centralizacion actual de los smartcontracts. Por ultimo evaluar otra solucion de L2 como ser Arbitrum o Optimism que son consideradas mas seguras que la analizada Polygon o bien Fantom otra solucion de tipo "sidechain"
 
 Una propuesta de riesgo bajo podria ser realizar la integracion para ciertos documentos de Ventanilla electronica para ir evaluando en tiempo real la solucion. Esto permitiria liberar TSA y evaluar el funcionamiento de la solucion al mismo tiempo. Como consideracion conservadora adicional se podria incorporar una leyenda en los documentos firmados indicando que la solucion se encuentra en fase de evaluacion
 
