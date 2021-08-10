@@ -8,7 +8,11 @@ Polygon POS (https://polygon.technology/technology/)
 
 Si bien generalizando podemos incluir a Polygon en una solución de capa 2 pero para ser estrictos con la idea general de la comunidad de que significa una solución L2, para Polygon la clasificación mas exacta sería la de una "commit chain" o "sidechain".
 <br/>
-**En breve**: Las soluciones de capa 2 como por ejemplo Optimism, Arbitrum o Metis todas sincronizan todos los estados generados por las transacciones en la capa 2 también en la capa 1 (Ethereum mainnet) utilizando un proceso "batch". Es un punto critico de la seguridad de estas redes que un escenario de catastrofe permite regenerar el state de L2 utilizando los smartcontracts de L1
+<br/>
+**En breve**: Las soluciones de capa 2 como por ejemplo Optimism, Arbitrum o Metis todas sincronizan todos los estados generados por las transacciones en la capa 2 también en la capa 1 (Ethereum mainnet) utilizando un proceso "batch".
+<br/>
+Es un punto critico de la seguridad de estas redes que un escenario de catastrofe permite regenerar el state de L2 utilizando los smartcontracts de L1.
+<br/>
 Para el caso de Polygon la segurización se produce con checkpoints periodicos en la capa 1 registrando solo un arbol de tipo merkle tree de las transacciones generadas en la capa 2. 
 
 
